@@ -1,5 +1,5 @@
 
-[Image](https://github.com/kevkillion/Dataset_Explorer/blob/main/Dataset_Explorer_Output.jpg)
+![Data Explorer Output Image](https://github.com/kevkillion/Dataset_Explorer/blob/main/Dataset_Explorer_Output.jpg)
 
 # **Dataset Explorer Function (Powerful)**
 
