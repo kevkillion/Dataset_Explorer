@@ -3,7 +3,7 @@
 
 Dataset Explorer is a Python script that allows you to analyze and explore datasets in various file formats such as CSV, XLSX, and JSON. It provides information about the dataset's structure, summary statistics, and displays the dataset's head, tail, and a sample of rows.
 ```python
-                                              ALL IN ONE VIEW!!!
+                                                 ALL IN ONE VIEW!!!
 ```
 
 ![Data Explorer Output Image](https://github.com/kevkillion/Dataset_Explorer/blob/main/Dataset_Explorer_Output.jpg)
